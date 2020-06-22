@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imdb>
+    <moviegenre category="fantasy">
+        <MovieCollection>The Lord of the Rings</MovieCollection>
+            <title lang="en">The Lord of the Rings: The Fellowship of the Ring</title>
+                <director>Peter Jackson</director>
+                <year>2001</year>
+                <cast>Elijah Wood, Ian Mckellen, Viggo Mortensen, Orlando Bloom, Sean Astin, Billy Boyd, Sean Bean, Dominic Monaghan, Cate Blanchett, Liv Tyler, Christopher Lee, John Rhys-Davies, Ian Holm, Andy Serkis, Hugo Weaving</cast>
+            <title lang="en">The Lord of the Rings: The Two Towers</title>
+                <director>Peter Jackson</director>
+                <year>2002</year>
+                <cast>Elijah Wood, Viggo Mortensen, Orlando Bloom, Ian, Mckellen, Sean Astin, Liv Tyler, Bernard Hill, Andy Serkis, Billy Boyd, Miranda Otto, Karl Urban, Brad Dourif, Christopher Lee, Cate Blanchett, David Wenham, John Rhys-Davies, Dominic Monaghan, Hugo Weaving</cast>
+            <title lang="en">The Lord of the Rings: The Return of the King</title>
+                <director>Peter Jackson</director>
+                <year>2003</year>
+                <cast>Elijah Wood, Viggo Mortensen, Ian Mckellen, Sean Astin, Orlando Bloom, Billy Boyd, Liv Tyler, Andy Serkis, John Rhys-Davies, Miranda Otto, Dominic Monaghan, Bernard Hill, David Wenham, Cate Blanchett, Karl Urban, John Noble</cast>
+        <MovieCollection>The Lord of the Rings</MovieCollection>
+
+    </moviegenre>
+</imdb>
